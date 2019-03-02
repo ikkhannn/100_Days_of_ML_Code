@@ -16,3 +16,8 @@
 ## Day 3 : 1 March , 2019
 **Today's Progress** : Data preprocessing (Categorical data) .
 
+
+# 100 Days Of ML - LOG
+## Day 4 : 2 March , 2019
+**Today's Progress** : Data preprocessing (Splitting data into test and training set, feature scaling) .
+
