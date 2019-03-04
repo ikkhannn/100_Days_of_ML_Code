@@ -21,3 +21,8 @@
 ## Day 4 : 2 March , 2019
 **Today's Progress** : Data preprocessing (Splitting data into test and training set, feature scaling) .
 
+# 100 Days Of ML - LOG
+## Day 5 : 2 March , 2019
+**Today's Progress** : Simple linear regression
+
+
