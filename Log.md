@@ -30,3 +30,8 @@
 **Today's Progress** : trained the model
 
 
+# 100 Days Of ML - LOG
+## Day 7 : 5 March , 2019
+**Today's Progress** : build linear regression model
+
+
