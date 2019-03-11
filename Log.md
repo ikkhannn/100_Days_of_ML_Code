@@ -31,7 +31,7 @@
 
 
 # 100 Days Of ML - LOG
-## Day 7 : 5 March , 2019
-**Today's Progress** : build linear regression model
+## Day 7 : 11 March , 2019
+**Today's Progress	** : multivariable linear regression
 
 
